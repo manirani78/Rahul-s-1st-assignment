@@ -40,6 +40,7 @@ TBW
 - [Dblp](https://dblp.uni-trier.de/pers/hd/d/Danish:Syed_Muhammad)
 - [Medium](https://medium.com/@syedmuhammaddanish)
 - [Linkedin](https://www.linkedin.com/in/syeddanish1992/)
+- [Github](https://github.com/syedmuhamaddanish)
 
 
 ### **Find my [CV](https://github.com/syedmuhamaddanish/syedmuhamaddanish.github.io/blob/main/CV.pdf)** 
