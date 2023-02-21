@@ -31,7 +31,7 @@ _IEEE International Conference on Decentralized Applications and Infrastructures
 ### **Skills**
 - Blockchain Platforms (Ethereum, Energy Web Chain, Quorum, Hyperledger, Avalanche, Iotex, Polygon Matic, Arbitrum)
 - Blockchain Development Frameworks (Truffle (web3js), Hardhat (Etherjs))
-- Programming Languages (Python, JavaScript, Solidity)
+- Programming Languages (Python, JavaScript, Solidity, TypeScript)
 - Frameworks (React, Python Flask, Django, Nodejs, ExpressJS)
 - Databases (InfluxDB, MongoDB, IPFS, Filecoin web3 storage, Redis, PostgreSQL)
 - Other tools (Docker, Gitlab (CI/CD), AWS cloud)
@@ -42,7 +42,7 @@ _IEEE International Conference on Decentralized Applications and Infrastructures
 
 ### **Research Projects**
 
-- **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
+- **Financial compensation of energy users using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
 - **Smart contract-based energy markets** In this project... 
 
 ### **Public Profiles**
