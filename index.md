@@ -39,9 +39,7 @@ _IEEE International Conference on Decentralized Applications and Infrastructures
 - Sound knowledge of blockchain consensus algorithm
 - Applied Deep learning/Machine learning (Keras, Tensorflow)
 
-- **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
-- **Smart contract-based energy markets** In this project... 
-- 
+
 ### **Research Projects**
 
 - **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
