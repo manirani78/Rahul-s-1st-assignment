@@ -26,12 +26,25 @@ Muhammad Muneem Shabir, Syed Muhammad Danish, Kaiwen Zhang. [BlockQoS: Fair Mone
 _ACM Distributed Ledger Technologies: Research and Practice 2023_
 
 Syed Muhammad Danish, Kaiwen Zhang, Hans-Arno Jacobsen. [BlockAM: An Adaptive Middleware for Intelligent Data Storage Selection for Internet of Things](https://ieeexplore.ieee.org/abstract/document/9126003/).
-_IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS) 2020_
-**Best Paper Award**
+_IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS) 2020_ (**Best Paper Award**)
 
+### **Skills**
+- Blockchain Platforms (Ethereum, Energy Web Chain, Quorum, Hyperledger, Avalanche, Iotex, Polygon Matic, Arbitrum)
+- Blockchain Development Frameworks (Truffle (web3js), Hardhat (Etherjs))
+- Programming Languages (Python, JavaScript, Solidity)
+- Frameworks (React, Python Flask, Django, Nodejs, ExpressJS)
+- Databases (InfluxDB, MongoDB, IPFS, Filecoin web3 storage, Redis, PostgreSQL)
+- Other tools (Docker, Gitlab (CI/CD), AWS cloud)
+- Hardware (Arduino, Raspberry Pi)
+- Sound knowledge of blockchain consensus algorithm
+- Applied Deep learning/Machine learning (Keras, Tensorflow)
+
+- **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
+- **Smart contract-based energy markets** In this project... 
+- 
 ### **Research Projects**
 
-- **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. 
+- **Financial compensation of energy user's using blockchain technology:** In this project, we employed [decentralized storage technology](https://web3.storage/) and blockchain to calculate the financial compensation of energy users based on their energy consumption data. We created a decentralized application using on-chain and off-chain solutions. We also performed comprehensive performance evaluation considering different blockchain systems, e.g., energy web chain, polygon, arbitrum, IoTex, etc, as this application is designed for large-scale energy users. This project is a part of blockchain integration in Hydro-Quebec's software platform.
 - **Smart contract-based energy markets** In this project... 
 
 ### **Public Profiles**
