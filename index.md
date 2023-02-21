@@ -8,7 +8,7 @@ I received my Ph.D. from the Département de génie logiciel et des TI of the Un
 
 My Ph.D. research was focused on the trusted service selection of consumer applications including IoT and electric vehicles, using blockchain technology. I am excited about applying blockchain technology to secure and improve the implementations of consumer side applications people use day to day. 
 
-Aside from work, I enjoy gym, video games, writing blogs, and listening to traditional indian music.
+Aside from work, I hit the gym, play video games, write tech blogs, and listen to traditional indian music.
 
 ### **Contact me**
 
