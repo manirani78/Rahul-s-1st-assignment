@@ -1,5 +1,5 @@
 
-<img src="danish.jpg" width="325" height="397.5">
+<img src="danish.jpg" width="409.6" height="273">
 
 ### **About me**
 I am currently employed as a postdoctoral researcher at ETS Montreal and Hydro-Quebec. My research activities focus on the integration of blockchain technology within energy systems.
