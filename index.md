@@ -31,6 +31,7 @@ _IEEE International Conference on Decentralized Applications and Infrastructures
 ### **Skills**
 - Blockchain Platforms (Ethereum, Energy Web Chain, Quorum, Hyperledger, Avalanche, Iotex, Polygon Matic, Arbitrum)
 - Blockchain Development Frameworks (Truffle (web3js), Hardhat (Etherjs))
+- Web3 development (Solidity, HTML, CSS, Javascript)
 - Programming Languages (Python, JavaScript, Solidity, TypeScript)
 - Frameworks (React, Python Flask, Django, Nodejs, ExpressJS)
 - Databases (InfluxDB, MongoDB, IPFS, Filecoin web3 storage, Redis, PostgreSQL, Storj)
