@@ -4,10 +4,6 @@
 ### **About me**
 I am currently employed as a postdoctoral researcher and lecturer at York University. I received my Ph.D. from the Département de génie logiciel et des TI of the University ETS Montreal, Quebec in August 2022,with [Prof. Kaiwen Zhang](https://www.etsmtl.ca/en/research/professors/kzhang) as my advisor, and [Prof. Hans-Arno Jacobsen](https://www.ece.utoronto.ca/people/jacobsen-h-a/) as my co-advisor. I received Masters in Electrical Engineering from National University of Sciences & Technology, Pakistan. Before coming to ETS Montreal, I worked with [Prof. Marios Lestas](https://www.linkedin.com/in/marios-lestas-708aa5231/) as a research assistant under Erasmus + mobility project at the Frederick university, Cyprus. My hometown is Rawalpindi, Pakistan.
 
-//My Ph.D. research was focused on the trusted service selection of consumer applications including IoT and electric vehicles, using blockchain technology. I am excited about applying blockchain technology to secure and improve the implementations of consumer side applications people use day to day. 
-
-//Aside from work, I hit the gym, play video games, make programming tutorials on [youtube](https://www.youtube.com/channel/UC7mE5qkEh8J610BpFmwAZyQ), and listen to traditional indian music.
-
 ### **Contact me**
 
 _Email:  smdanish at yorku dot ca_
@@ -44,7 +40,7 @@ _IEEE Transactions on Sustainable Computing 2023_ (**Under Revision**)
 
 ### **Teaching**
 - Object Oriented Programming in Java [ITEC2610](https://course-outlines.laps.yorku.ca/outlines/2020w-apitec2610m-03/)
-- Introduction to Computer Programming - Python [ITEC1610]([https://course-outlines.laps.yorku.ca/outlines/2020w-apitec2610m-03/](https://www.yorku.ca/laps/itec/course-description/ap-itec-1610-3-00-introduction-to-computer-programming/))
+- Introduction to Computer Programming - Python [ITEC1610]([https://course-outlines.laps.yorku.ca/outlines/2020w-apitec2610m-03/](https://www.yorku.ca/laps/itec/course-description/ap-itec-1610-3-00-introduction-to-computer-programming/)
 
 ### **Public Profiles**
 
