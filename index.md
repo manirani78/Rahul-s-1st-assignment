@@ -40,7 +40,7 @@ _IEEE Transactions on Sustainable Computing 2023_ (**Under Revision**)
 
 ### **Teaching**
 - Object Oriented Programming in Java [ITEC2610](https://course-outlines.laps.yorku.ca/outlines/2020w-apitec2610m-03/)
-- Introduction to Computer Programming - Python [ITEC1610]([https://course-outlines.laps.yorku.ca/outlines/2020w-apitec2610m-03/](https://www.yorku.ca/laps/itec/course-description/ap-itec-1610-3-00-introduction-to-computer-programming/)
+- Introduction to Computer Programming - Python [ITEC1610](https://www.yorku.ca/laps/itec/course-description/ap-itec-1610-3-00-introduction-to-computer-programming/)
 
 ### **Public Profiles**
 
