@@ -14,6 +14,18 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+
+  <style>
+.flashing-text {
+    color: red;
+    animation: flash 1s infinite;
+}
+
+@keyframes flash {
+    0%, 50%, 100% { opacity: 1; }
+    25%, 75% { opacity: 0; }
+}
+</style>
 </head>
 <body>
 
@@ -63,7 +75,19 @@
   <div class="column"></div>
   <div class="column"></div>
 </div> 
-            
+            <div class="col">    
+    <h2 id="students" class="flashing-text">Prospective Students</h2>
+    <p>
+        I am currently looking for Master's students to work on projects related to 
+        <b>green energy trading</b> and <b>green LLM inference</b>. 
+        Students with a background in <b>optimization</b> and <b>artificial intelligence (AI)</b> 
+        are especially encouraged to apply. 
+    </p>
+    <p>
+        If you are interested, please send your CV to my email address: 
+        <b>syed (dot) danish @ algomau (dot) ca</b>.
+    </p>
+</div>
             <div class="col">    
                 <h2 id="papers">Research Publications</h2>
 
@@ -164,3 +188,4 @@
 </body>
 
 </html>
+
