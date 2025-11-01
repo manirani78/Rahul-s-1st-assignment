@@ -1,198 +1,63 @@
 <!DOCTYPE html>
-<!--
-    Plain-Academic by Vasilios Mavroudis
-    Released under the  Simplified BSD License/FreeBSD (2-clause) License.
-    https://github.com/mavroudisv/plain-academic
--->
-
 <html lang="en">
+
 <head>
-  <title>Syed Muhammad Danish</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
-
-  <style>
-.flashing-text {
-    color: red;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syed Muhammad Danish | Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
 </head>
+
 <body>
+    <!-- Header -->
+    <header class="site-header">
+        <h1>Syed Muhammad Danish</h1>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Papers</a></li>
+                <li><a href="#">Teaching</a></li>
+                <li><a href="#other">Other Things</a></li>
+                <li><button id="dark-mode-toggle">Toggle Dark Mode</button></li>
+            </ul>
+        </nav>
+    </header>
 
+    <!-- Main Content -->
+    <main>
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I am Syed Muhammad Danish, an Assistant Professor at Algoma University.</p>
+            <p>Email: <strong>syed.danish@algomau.ca</strong></p>
+            <p>
+                <a href="https://github.com/syedmuhamaddanish" target="_blank">GitHub</a> |
+                <a href="https://www.linkedin.com/in/syeddanish1992/" target="_blank">LinkedIn</a>
+            </p>
+        </section>
 
-<!-- Navigation -->
-    <nav class="navbar navbar-inverse style="margin-left: 100px;"">
-      <div class="container">
-		<ul class="nav navbar-nav">
-              <li><a href="#">Home</a></li>
-              <!--<li><a href="#talks">Talks and News</a></li> -->
-              <li><a href="#papers">Papers</a></li> 
-              <li><a href="#teaching">Teaching</a></li> 
-              <li><a href="#otherthings">Other Things</a></li> 
-		</ul>
-	  </div>
-	</nav>
-  <!-- Page Content -->
-    <div class="container">
-        <div class="row">
-            <!-- Contact Info on the Sidebar -->
-            <div class="col-md-3 col-xs-12">
-                <div style="word-wrap: break-word; font-family: 'Oswald', sans-serif; text-align: center; font-size: 36px;" ><b>Syed Muhammad Danish</b></div><br>
-                <div class="row"> <div class="col-md-12 col-xs-4"> <img class="img-responsive" src="img/pic.jpg" alt=""></div></div><br>
-                <div> <p>Email: <b>syed.danish@algomau.ca</b><br> </div>
-                <div> <p> <a href="https://scholar.google.ca/citations?user=OAiYfI8AAAAJ&hl=en">See My Google Scholar</a><br> </div>
-                <div> <p> <a href="https://github.com/syedmuhamaddanish">See My Github</a><br> </div>
-                <div> <p> <a href="https://www.linkedin.com/in/syeddanish1992/">See My LinkedIn</a><br> </div>
-                
-            </div>
-            <!-- Entries Column -->
-            <div class="col-md-8 col-xs-12">
-                <div class="col" style="margin-top:3%; text-align:justify;">                
-					<p>Hello!</p>
-                    <p>
-                      I am currently employed as an Assistant Professor at Algoma University. Previously, I was a postdoctoral researcher and lecturer at York University under the supervision of Prof. Sotirios Liaskos. I received my Ph.D. from the Département de génie logiciel et des TI at the University ETS Montreal, Quebec, in August 2022, with Prof. Kaiwen Zhang as my advisor and Prof. Hans-Arno Jacobsen as my co-advisor. Before coming to ETS Montreal, I worked with Prof. Marios Lestas as a research assistant under the Erasmus+ mobility project at Frederick University, Cyprus. My hometown is Rawalpindi, Pakistan. </p>
-                   <p> 
-                     I work on green energy systems, where my main goal is to provide green energy solutions to reduce overall carbon footprints.
-                   </p>
+        <!-- Prospective Students -->
+        <section id="students">
+            <h2>Prospective Students</h2>
+            <p>
+                Looking for students interested in <strong>renewable energy</strong> and <strong>AI/Optimization</strong>.
+                Send CV and research statement to my email.
+            </p>
+        </section>
 
-                    <!--- <p>I am funded by an <a href=https://www.nsfgrfp.org/>NSF GRFP fellowship</a>, and a <a href=https://vpge.stanford.edu/fellowships-funding/sgf/details>Stanford Graduate Fellowship. </a></p> --->
-                    <p> My principal interests include developing strategies to expand the integration of renewable energy sources and electric vehicles into the existing energy grid, providing solutions for the efficient use of energy infrastructure, and integrating blockchain networks. Recently, I have also started working on reducing the energy consumption of generative AI models, such as large language models (LLMs).</a>
-                      
-                    <p> Also, I recently received the <b>NSERC Discovery Grant (DG)</b> for a period of five years. </p>
-                
-                    </div> 
-                <div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
-</div> 
-            <div class="col">    
-    <h2 id="students" class="flashing-text">Prospective Students</h2>
-    <p>
-        I am currently looking for Master's thesis students to work on projects related to 
-        <b>renewable energy trading</b> and <b>green LLM inference</b>. 
-        Students with a background in <b>optimization</b> and <b>AI</b> 
-        are encouraged to apply.
-    </p>
-    <p>
-        If you are interested, please send your CV and research statement to my email address. Due to the high volume of requests, only shortlisted candidates will be contacted to arrange a meeting.
-    </p>
-</div>
-            <div class="col">    
-                <h2 id="papers">Research Publications</h2>
+        <!-- Other Things -->
+        <section id="other">
+            <h2>Other Things</h2>
+            <p>Check out my <a href="https://www.youtube.com/@syedmuhammaddanish" target="_blank">YouTube Channel</a>
+                for Web3 blockchain tutorials.</p>
+        </section>
+    </main>
 
-                <p> 
-                  For the full list of publications, please visit my Google Scholar profile. A selection of my publications is listed below.
-                 </p>
-
-                <h3>Selected Papers</h3>
-				<p>
-                <b> <a href="https://www.researchgate.net/publication/394403309_RefactorCoderQA_Benchmarking_LLMs_for_Multi-Domain_Coding_Question_Solutions_in_Cloud_and_Edge_Deployment/">RefactorCoderQA: Benchmarking LLMs for Multi-Domain Coding Question Solutions in Cloud and Edge Deployment</a></b> - <b>Submitted 2025</b>
-                </p>
-				<p></p>
-				<p>
-                <b> <a href="https://arxiv.org/abs/2508.08332">Energy-Aware Code Generation with LLMs: Benchmarking Small vs. Large Language Models for Sustainable AI Programming</a></b> - <b>Submitted 2025</b>
-                </p>
-				<p></p>
-				<p>
-                <b> Aligning Pre-Trained LLMs for Enhanced UAV Power Consumption Forecasting</b> - <b><span style="color: red;">Accepted at IEEE Globecom 2025</span></b>
-                </p>
-				<p></p>    
-				<p>
-                <b> <a href="https://dl.acm.org/doi/abs/10.1145/3709016.3737806">Privacy-Preserving Energy Trading: A TEE-Based Blockchain Solution Using Secret Network</a></b> - <b>ACM BSCI 2025</b>
-                </p>
-                </p>
-                <p></p>
-				<p>
-                <b> <a href="https://ieeexplore.ieee.org/document/11114733">Zero SolarWing: A net-Zero Solar Wind-Powered UAV-Enabled RIS System for URLLC Services in 6G Compute First Networks</a></b> - <b>IEEE Transactions on Consumer Electronics 2025</b>
-                </p>
-                <p></p>
-		        <p>
-                <b> <a href="https://ieeexplore.ieee.org/document/10977019">Block-FeST: Blockchain-Enhanced Federated Sparse Transformers for Privacy-Preserving RES Forecasting in Internet of Vehicles Systems</a></b> - <b>IEEE Internet of Things Journal 2025</b>
-                </p>
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/10737167">Blockchain-as-a-Service: Architecture, Opportunities and Challenges</a></b> - <b>IEEE Internet of Things Magazine 2024</b>
-                </p>
-                <p></p>
-                <p>
-                <b> <a href="https://link.springer.com/chapter/10.1007/978-3-031-75872-0_11">Generating Secure Workflow Designs from Requirements Goal Models Using Patterns</a></b> - <b>ER Conceptual Modelling Conference 2024 <a style="color: red;">(Core A Conference)</a></b>
-                </p>
-                <p></p>
-                <p>
-                <b> <a href="https://dl.acm.org/doi/abs/10.1145/3696428">A Blockchain-Based Privacy-Preserving Charging Station Reservation and Payment Scheme for Electric Vehicles</a></b> - <b>ACM Distributed Ledger Technologies Journal</b> 
-                </p> 
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/10541078">Block-FeDL: Electric vehicle charging load forecasting using federated learning and blockchain</a></b> -  <b>IEEE Transactions on Vehicular Technology 2024</b>
-                </p>  
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/10438884">Blockchain for energy credits and certificates: a comprehensive review</a></b> -  <b>IEEE Transactions on Sustainable Computing 2024 <a style="color: red;">(Work with Hydro-Quebec)</a></b>
-                </p>  
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/9398554">BlockAIM: a neural network-based intelligent middleware for large-scale IoT data placement decisions</a></b> -  <b>IEEE Transactions on Mobile Computing 2022</b>
-                </p>  
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/9310692">BlockEV: Efficient and secure charging station selection for electric vehicles</a></b> -  <b>IEEE Transactions on Intelligent Transportation Systems 2021</b>
-                </p>
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/9126003/">BlockAM: An adaptive middleware for intelligent data storage selection for Internet of Things</a></b> -  <b>IEEE DAPPS 2020 <a style="color: red;">(Best Paper Award - Acceptance Rate 13.6%)</a></b>
-                </p> 
-                <p></p>
-                <p>
-                <b> <a href="https://ieeexplore.ieee.org/abstract/document/8422721">Network intrusion detection system for jamming attack in lorawan join procedure</a></b> -  <b>IEEE ICC 2018</b>
-                </p>                  
-                <p></p>
-
-            </div>
-            <div class="col">    
-              <h2 id="teaching">Teaching</h2>
-              I have taught multiple graduate and undergraduate courses. Here is the list:
-
-              <h3>Graduate Courses</h3>
-              <p>COSC5806 - Data Analysis with Python</p>
-              <p>COSC5856 - Introduction to Cybersecurity</p>
-              <p>COSC5437 - Neural Networks and Deep Learning</p>
-              <p>COSC5206 - Graduate Seminar</p>
-              
-          
-              <h3>Undergraduate Courses</h3>
-              <p>COSC1047 - Introduction to Computer Science II</p>
-              <p>ITEC 1610 - Introduction to Computer Programming (York University)</p>
-              <p>ITEC 2610 - Object-Oriented Programming (York University)</p>
-          </div>
-
-        <div class="col">    
-            <h2 id="otherthings">Other things</h2>
-                <p>Have a look at my <a href="https://www.youtube.com/@syedmuhammaddanish">Youtube Channel</a>, where I teach Web3 blockchain development!
-
-
-		
-    </div>
-	
-        </div>
-        </div>
-                </div>
-    </div>
-	
-
-    
-    <!-- Other people may like it too! -->
-    <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">The template is by Vasilios Mavroudis. Thanks!</a> 
-    
+    <!-- Footer -->
+    <footer class="site-footer">
+        <p>&copy; 2025 Syed Muhammad Danish. All rights reserved.</p>
+    </footer>
 </body>
 
 </html>
-
-
-
-
-
-
